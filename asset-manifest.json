@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/randomButtons---react/static/css/main.860b6837.css",
+    "main.js": "/randomButtons---react/static/js/main.24c6b284.js",
+    "index.html": "/randomButtons---react/index.html",
+    "main.860b6837.css.map": "/randomButtons---react/static/css/main.860b6837.css.map",
+    "main.24c6b284.js.map": "/randomButtons---react/static/js/main.24c6b284.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.860b6837.css",
+    "static/js/main.24c6b284.js"
+  ]
+}
